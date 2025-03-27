@@ -2,6 +2,12 @@
 
 Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en Master IA & Data à l’IPSSI, avec une solide formation en Mathématiques et Informatique. Passionné par l’Intelligence Artificielle, le Big Data et le Développement Full-Stack, je suis à la recherche de mon premier stage afin d'appliquer mes compétences techniques dans un environnement professionnel.
 
+## CV :
+- CV DATA ANALYST & SCEINTIST :
+  [CV-DATA1.pdf](https://github.com/user-attachments/files/19487849/CV-DATA1.pdf)
+- CV DEV FULLSTACK :
+  [CV-DEV.pdf](https://github.com/user-attachments/files/19487852/CV-DEV.pdf)
+
 J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter.
 
 ## 📬 Contact
