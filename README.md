@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en Master IA & 
 J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter.
 
 ## 📬 Contact
-- **Email**: [akram.chouichi77@gmail.com] (mailto:chouichi.akram@gmail.com)
+- **Email**: [akram.chouichi77@gmail.com] (mailto:akram.chouichi77@gmail.com)
 - **LinkedIn**: [Akram Chouichi](https:/www.linkedin.com/in/akram-chouichi77)
 
 ## 💻 Compétences
