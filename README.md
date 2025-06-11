@@ -18,7 +18,7 @@ J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter.
 
 ### Data Science & Machine Learning
 - **Langages**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL , NOSQL
-- **Modélisation**: Régression linéaire, Random Forest, Machine Learning supervisé, Prétraitement des données
+- **Modélisation**: Régression linéaire, Random Forest, Machine Learning supervisé/non-supervisé, Prétraitement des données, NLP
 - **Outils**: Jupyter Notebook, Power BI, Tableau
 
 ### Développement Full-Stack
