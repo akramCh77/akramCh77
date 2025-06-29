@@ -4,9 +4,9 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en Master IA & 
 
 ## 📜 Cv 
 - CV DATA ANALYST & SCEINTIST :
-  [CV-DATA1.pdf](https://github.com/user-attachments/files/19487849/CV-DATA1.pdf)
+  [PRO-cvData.pdf](https://github.com/user-attachments/files/19487849/PRO-cvData.pdf)
 - CV DEV FULLSTACK :
-  [CV-DEV.pdf](https://github.com/user-attachments/files/19487852/CV-DEV.pdf)
+  [PRO-cvDev.pdf](https://github.com/user-attachments/files/19487852/PRO-cvDev.pdf)
 
 J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter.
 
