@@ -1,10 +1,10 @@
 # Akram Chouichi 👾| Data Analyst & DATA Scientist & Full-Stack Developer
 
-Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en Master IA & Data à l’IPSSI, avec une solide formation en Mathématiques et Informatique. Passionné par l’Intelligence Artificielle, le Big Data et le Développement Full-Stack, je suis à la recherche de mon premier stage afin d'appliquer mes compétences techniques dans un environnement professionnel.
+Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en Master Management de l'IA en santé, avec une solide formation en Mathématiques et Informatique. Passionné par l’Intelligence Artificielle, le Big Data et le Développement Full-Stack, je suis à la recherche d'un stage de 6 mois à partir de mars 2026 afin d'appliquer mes compétences techniques dans un environnement professionnel.
 
 ## 📜 Cv 
 - CV DATA ANALYST & SCEINTIST :
-  [PRO-cvData.pdf](https://github.com/user-attachments/files/20970167/PRO-cvData.pdf)
+  [CV-stage.pdf](https://github.com/user-attachments/files/23245507/CV-stage.pdf)
 - CV DEV FULLSTACK :
   [PRO-cvDev.pdf](https://github.com/user-attachments/files/20970168/PRO-cvDev.pdf)
 
